@@ -11,6 +11,7 @@ waef
 wafwafawf
 waefawef
 wafwaf
+<<<<<<< HEAD
 
 aaawefwefawefawef
 aaawefwefawefawefawef
@@ -18,3 +19,11 @@ aaawefwefawef
 aaawefwefawefawefawefa
 
 waef
+=======
+aaawefwefawefawaw
+efaw
+efawef
+..
+
+
+>>>>>>> hiya
